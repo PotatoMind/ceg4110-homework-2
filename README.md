@@ -9,9 +9,9 @@ The goal of this homework assignment was to use MVC and command design patterns 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-![Main Screen](./main_screen.png "Main Screen")
-![Analog Clock](./analog_clock.png "Analog Clock")
-![Digital Clock](./digital_clock.png "Digital Clock")
+<img src="./main_screen.png" alt="Main Screen" width="250" height="500"/>
+<img src="./analog_clock.png" alt="Analog Clock" width="250" height="500"/>
+<img src="./digital_clock.png" alt="Digital Clock" width="250" height="500"/>
 
 ### Prerequisites
 
